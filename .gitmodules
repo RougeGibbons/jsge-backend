@@ -1,0 +1,4 @@
+[submodule "jsge-backend-interfaces"]
+	path = jsge-backend-interfaces
+	url = https://github.com/RougeGibbons/jsge-backend-interfaces.git
+    branch = master
